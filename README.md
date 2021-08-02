@@ -3,7 +3,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-KomalKamble-red)](https://www.youtube.com/KomalKamble)
 [![Linkedin Badge](https://img.shields.io/badge/-Komal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komal-kamble-7a1478209/)](https://www.linkedin.com/in/komal-kamble-7a1478209/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Komal-green)](https://www.Komal)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Komal-yellow)](https://stackoverflow.com/users/3687251/Komal-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Komal-yellow)](https://stackoverflow.com)
 
 I'm
 Full Stack developer
