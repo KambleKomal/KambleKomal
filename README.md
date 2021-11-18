@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-KomalKamble-red)](https://www.youtube.com/channel/UC1lELWSyBqxcjXg3KyWh1vw/videos)
 [![Linkedin Badge](https://img.shields.io/badge/-Komal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komal-kamble-7a1478209/)](https://www.linkedin.com/in/komal-kamble-7a1478209/)
